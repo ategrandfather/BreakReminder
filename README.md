@@ -14,3 +14,7 @@ TARGET_PROCESSES = [ </br>
 (e.g. 'firefox-bin', 'chrome.exe' on Windows...)</br>
 </br>
 Don't forget to "pip install requirements.txt", and call your mom sometime.
+
+___________
+<h4>On Linux</h4> Tweak: Settings>Notifications>Display Notification over full screen windows </br>
+to make it appear over Steam Games per se.
